@@ -44,6 +44,9 @@
 
     <!-- Plugins -->
 
+   <gap:plugin name="org.apache.cordova.inappbrowser" />
+
+        
     <!-- Core plugins -->
    <!--<plugin name="cordova-plugin-battery-status" />-->
      <!--<plugin name="cordova-plugin-camera" />-->
