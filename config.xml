@@ -45,7 +45,7 @@
 
     <!-- Plugins -->
 
-   <plugin name="org.apache.cordova.inappbrowser" />
+   <!--<plugin name="org.apache.cordova.inappbrowser" />-->
 
         
     <!-- Core plugins -->
