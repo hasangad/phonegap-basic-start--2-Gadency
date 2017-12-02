@@ -19,7 +19,8 @@
     <!--
         If you do not want any permissions to be added to your app, add the
         following tag to your config.xml; you will still have the INTERNET
-        permission on your app, which PhoneGap requires.
+        permission on your app, which Phone
+ requires.
     -->
     <preference name="permissions"                value="none"/>
 
@@ -44,7 +45,7 @@
 
     <!-- Plugins -->
 
-   <gap:plugin name="org.apache.cordova.inappbrowser" />
+   <plugin name="org.apache.cordova.inappbrowser" />
 
         
     <!-- Core plugins -->
